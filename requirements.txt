@@ -1,0 +1,8 @@
+fastapi[standard]
+streamlit
+openai
+chromadb
+pymupdf
+python-dotenv
+pytest
+httpx

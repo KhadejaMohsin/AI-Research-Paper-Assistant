@@ -1,0 +1,22 @@
+
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and uploaded documents
+data/pdfs/*
+data/chroma/*
+!data/pdfs/.gitkeep
+!data/chroma/.gitkeep
+
+# Operating system
+.DS_Store
