@@ -1,4 +1,4 @@
-# DocuMind
+# 
 
 A RAG-powered research assistant: upload PDFs, ask questions, get answers that cite the page they came from.
 
